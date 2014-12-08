@@ -1,0 +1,6 @@
+[submodule "easyfpga-soc"]
+	path = easyfpga-soc
+	url = https://github.com/os-cillation/easyfpga-soc.git
+[submodule "easyfpga-sdk-java"]
+	path = easyfpga-sdk-java
+	url = https://github.com/os-cillation/easyfpga-sdk-java.git
