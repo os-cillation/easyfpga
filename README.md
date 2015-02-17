@@ -13,6 +13,12 @@ git clone --recursive https://github.com/os-cillation/easyfpga.git
 
 ## Changelog
 
+#### 2015-02-17
+* Add upload tool GUI
+* Optimize SoC area usage
+* Handle FPGA-Toolchain without shellscript
+* Revise board device detection
+
 #### 2015-01-14
 * Add upload tool that allows uploading any FPGA binary without using the SDK
 * Add standalone application template for developing custom HDL projects
