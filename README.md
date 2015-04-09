@@ -13,6 +13,9 @@ git clone --recursive https://github.com/os-cillation/easyfpga.git
 
 ## Changelog
 
+#### 2015-04-09
+* Small wiki changes
+
 #### 2015-02-17
 * Add upload tool GUI
 * Optimize SoC area usage
